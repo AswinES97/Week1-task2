@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Insights" transform="translate(19311 12747)">
+    <rect id="Rectangle_13377" data-name="Rectangle 13377" width="48" height="48" rx="10" transform="translate(-19311 -12747)" fill="#121212"/>
+    <g id="Insight_icon" data-name="Insight icon" transform="translate(-19303.758 -12739.175)">
+      <rect id="Rectangle_8086" data-name="Rectangle 8086" width="32" height="32" transform="translate(0.756 0.175)" fill="none"/>
+      <path id="poll" d="M3,23.792V8.537H7.358V23.792H3m7.627,0V2h4.358V23.792H10.627m7.627,0V15.075h4.358v8.717Z" transform="translate(3.77 3.458)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

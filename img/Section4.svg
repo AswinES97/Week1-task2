@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Plans" transform="translate(19311 12747)">
+    <rect id="Rectangle_13377" data-name="Rectangle 13377" width="48" height="48" rx="10" transform="translate(-19311 -12747)" fill="#121212"/>
+    <g id="Yoga_Stretch" data-name="Yoga, Stretch" transform="translate(-27474.328 -10442.326)">
+      <rect id="bounding_box" data-name="bounding box" width="28" height="28" transform="translate(8173.327 -2294.674)" fill="none"/>
+      <path id="yoga" d="M16.191,2a2.648,2.648,0,0,0-2.709,2.565,2.713,2.713,0,0,0,5.418,0A2.639,2.639,0,0,0,16.191,2M4,8.413v2.565h8.127v7.7l-6.867,6.5,1.91,1.834,9.1-8.632,5.337,3.027v4.964h2.709V20.688a1.231,1.231,0,0,0-.677-1.1L18.9,16.879v-5.9h8.127V8.413Z" transform="translate(8172.21 -2295.378)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
