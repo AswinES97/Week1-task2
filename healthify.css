@@ -79,14 +79,151 @@
 
 .section1{
     width: 100%;
-    height: 100vh;
+    height: 115vh;
+    padding-top: 20px;
+    line-height: 2;
 }
-
 .icon{
     height: 60px;
     width: 60px;
 }
-
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .in1{
     text-align: center;
+}
+.in1 h2{
+    font-size: 2.5rem;
+}
+
+.in1 p{
+    font-size: 1rem;
+}
+.in1 img{
+    margin-right: 4em;
+}
+
+.up1{
+    display: flex;
+    margin-top: 1.5rem;
+    text-align: left;
+    margin-left: 3em;
+}
+
+.upleft1{
+    width: 550px;
+    padding: 50px 15px 15px 0px;
+    
+}
+.upleft1 p{
+    font-size: 0.875rem;
+}
+.upleft1 h3{
+    font-size: 1.275rem;
+}
+.upleft1 p,h3{
+    margin-left: 80px;
+    padding-right: 3em;
+    padding-top: 4px;
+    line-height: 1;
+}
+.upleft1 img{
+    position: absolute;
+}
+.spl{
+    width: 400px !important;
+    padding-left: 0px !important;
+}
+
+.down{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    text-align: left;
+    line-height: 1;
+}
+.down h2{
+    padding-top: 20px;
+    font-size: 1.25rem;
+}
+.down p{
+    padding-top: 10px;
+    font-size: .875rem;
+}
+.downParts{
+    padding: 1.25em 0px 1.75em 3em;
+    width: 270px;
+}
+
+/* Second section */
+
+.second-section{
+    width: 100%;
+    height: 230vh;
+    background-color: black;
+}
+.secondin{
+    height: 100%;
+    padding: 0px 24px;
+    margin:  0px 80px;
+    margin: 0px auto;
+    color: white;
+    text-align: center;
+}
+.second-inner{
+    margin: 48px 154px;
+    padding: 48px 0px;
+}
+.second-inner h2{
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: 700;
+}
+#span{
+    margin-top: 2em;
+    font-size: 16px;
+}
+.button2{
+    padding-top: 40px;
+}
+.button2 button{
+    padding: 10px 50px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.inner1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 7em;
+    text-align: left;
+    padding-top: 3em;
+}
+.img2{
+    height:300px ;
+    width: 464px;
+    object-fit: contain;
+}
+.img2space{
+    padding-left: 8em;
+}
+.inner-right{
+    height:150px;
+    width: 257px;
+    align-self: center;
+    padding-top: 2em;
+    padding-left: 6em;
+    text-align: left;
+}
+.inner-right h3{
+    font-size: 24px;
+    margin-left: 0px;
+}
+.inner-right p{
+    margin-top: 11px;
+    color:rgb(223, 223, 223);
+    font-size: 0.875rem;
+
 }
