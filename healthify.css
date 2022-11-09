@@ -248,7 +248,7 @@
     font-size: 1.7rem;
     /* padding-left: 3rem; */
     align-self: center;
-    background-color: blue;
+    /* background-color: blue; */
 }
 .lstext p{
     font-size: 1rem;
@@ -283,4 +283,98 @@
 .insightinner p{
     padding-top: 3px;
     font-size: .700em;
+}
+/* fifth section - health rev */
+.revin{
+    height: 100vh;
+    margin: 5em 10em;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.revin2{
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+}
+.revin2 span{
+    font-size: 15px;
+}
+.revin span{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.revin img{
+    padding: 2.5em 2.5em 0px 2.5em;
+}
+.revin3{
+    padding-left: 2em;
+    margin: 7em;
+    text-align: left;
+    display: flex;
+}
+.revin3in{
+    padding-left: 1em;
+    padding-top: 3em;
+}
+.revin3in h2{
+    font-size: 20px;
+}
+.revin3in p:nth-child(3){
+    padding-top: 20px;
+    font-size: 13px;
+}
+.revin3in p:nth-child(2){
+    color: brown;
+}
+.revin3in svg{
+    margin-top: 7em;
+    height: 15px; 
+    padding-left: 50px;
+}
+/* footer */
+.footer{
+    width: 100%;
+    height: 65vh;
+}
+.footerin{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 17em;
+    padding-top: 4.5em;
+    font-size: 13px;
+}
+.footerin a{
+    padding-top: 2em;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+}
+.footerin a:hover{
+    text-decoration: underline;
+}
+.footerimg{
+    flex-grow: 9;
+    padding-left: 3em;
+    display: flex;
+    flex-direction: column;
+}
+.links{
+    flex-grow: 4;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.details{
+    flex-grow: 3;
+    width: 200px;
+}
+.footerBtn{
+    padding-top: 2em;
+}
+.footerBtn button{
+    margin-right: 15px;
+}
+.details p{
+    margin-top: 25px;
 }
