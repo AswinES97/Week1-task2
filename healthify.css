@@ -90,7 +90,7 @@
 .center{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
 }
 .in1{
     text-align: center;
